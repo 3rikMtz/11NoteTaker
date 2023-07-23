@@ -36,7 +36,7 @@ This project is licensed under the terms of the MIT license.
 
 ## :question: Questions
 For any questions, please feel free to reach out to me on:
-- GitHub: [@<your-github-username>](https://github.com/<your-github-username>)
-- Email: <your-email>
+- GitHub: https://github.com/3rikMtz/11NoteTaker
+- Email: <eri0305@hotmail.com>
 ```
 Remember to replace `<Heroku Link>`, `<your-github-username>`, and `<your-email>` with your actual Heroku link for the deployed application, your GitHub username, and your email address respectively.
