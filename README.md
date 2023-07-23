@@ -29,7 +29,7 @@ To use the application, you need to have Node.js and npm installed on your machi
 4. :globe_with_meridians: Access the application on `localhost:3000` from your browser.
 
 ## :earth_americas: Deployed Application
-The application is deployed on Heroku. You can access it [here](<Heroku Link>).
+The application is deployed on Heroku. You can access it [here](https://fathomless-oasis-98840-01301faee598.herokuapp.com).
 
 ## :scroll: License
 This project is licensed under the terms of the MIT license.
@@ -39,4 +39,3 @@ For any questions, please feel free to reach out to me on:
 - GitHub: https://github.com/3rikMtz/11NoteTaker
 - Email: <eri0305@hotmail.com>
 ```
-Remember to replace `<Heroku Link>`, `<your-github-username>`, and `<your-email>` with your actual Heroku link for the deployed application, your GitHub username, and your email address respectively.
